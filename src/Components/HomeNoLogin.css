@@ -1,0 +1,21 @@
+.Home {
+    /* align-items: center; */
+    text-align: center;
+}
+
+.Home-content {
+    display: inline;
+    align-items: center;
+    text-align: center;
+}
+
+.Home-button {
+    margin: 10px;
+    padding: 10px;
+    float: none;
+
+}
+.Home-button a {
+    
+    text-decoration: none;
+}

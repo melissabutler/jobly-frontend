@@ -1,0 +1,16 @@
+
+.CompanyDetails-content {
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+.CompanyDetails-desc{
+    width: 75vw;
+    margin: auto;
+}
+
+.CompanyDetails-jobs {
+    width: 75vw;
+
+}

@@ -1,0 +1,16 @@
+.SignupForm {
+    text-align: center;
+}
+
+.SignupForm-form {
+    margin: 20px;
+}
+input {
+    margin: 1rem;
+    width: 50vw;
+    padding: 1rem;
+}
+button {
+    margin: 20px;
+    float: none;
+}
