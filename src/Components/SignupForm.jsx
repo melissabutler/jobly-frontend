@@ -48,8 +48,8 @@ const SignupForm = ({signUp}) => {
         <div className="SignupForm">
             <h1>Sign Up</h1>
             <form className="SignupForm-form" onSubmit={handleSubmit}>
-                <div classname="SignupForm-section">
-                    <div classname="SignupForm-section-label">
+                <div className="SignupForm-section">
+                    <div className="SignupForm-section-label">
                         <label className="SignupForm-label" htmlFor="username">Username</label>
                     </div>
                     <input 
@@ -63,8 +63,8 @@ const SignupForm = ({signUp}) => {
                     />
                 </div>
                 
-                <div classname="SignupForm-section">
-                    <div classname="SignupForm-section-label">
+                <div className="SignupForm-section">
+                    <div className="SignupForm-section-label">
                         <label className="SignupForm-label" htmlFor="password">Password</label>
                     </div>
                     
@@ -80,8 +80,8 @@ const SignupForm = ({signUp}) => {
                 </div>
                 
                 
-                <div classname="SignupForm-section">
-                    <div classname="SignupForm-section-label">
+                <div className="SignupForm-section">
+                    <div className="SignupForm-section-label">
                         <label className="SignupForm-label" htmlFor="firstName">First Name</label>
                     </div>
                     
@@ -96,8 +96,8 @@ const SignupForm = ({signUp}) => {
                     />
                     </div>
                 
-                <div classname="SignupForm-section">
-                    <div classname="SignupForm-section-label">
+                <div className="SignupForm-section">
+                    <div className="SignupForm-section-label">
                         <label className="SignupForm-label" htmlFor="username">Last Name</label>
                     </div>
                     <input 
@@ -111,8 +111,8 @@ const SignupForm = ({signUp}) => {
                     />
                 </div>
                 
-                <div classname="SignupForm-section">
-                        <div classname="SignupForm-section-label">
+                <div className="SignupForm-section">
+                        <div className="SignupForm-section-label">
                         <label className="SignupForm-label" htmlFor="username">Email</label>
                         </div>
                     
