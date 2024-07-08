@@ -1,6 +1,7 @@
 import axios from "axios";
 
-// const BASE_URL = import.meta.env.VITE_APP_BASE_URL || "http://localhost:3001";
+const BASE_URL = import.meta.env.VITE_APP_BASE_URL || "http://localhost:3001";
+console.log(BASE_URL)
 
 /** API Class.
  *
