@@ -39,7 +39,7 @@ function App() {
 /** When login form is submitted, call API. If successfull, set token. */
   async function login({user}) {
     try {
-      let res = await JoblyApi.LogInUser({user})
+      let res = await JoblyApi.LogInUser(user)
       setToken(res.token)
     } catch(err) {
       alert(err)
